@@ -84,7 +84,6 @@
     .topleft {
         width: 100%;
     }
-
     .boxes{
         flex-direction: column;
     }
@@ -99,8 +98,7 @@
 
   }
 
-  @media screen and (max-width: 400px) {
-
+@media screen and (max-width: 400px) {
     .logo{
         font-size: 15px;
     }
